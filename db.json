@@ -1,19 +1,124 @@
 {
-    "posts": [
+    "productList": [
         {
-            "id": 1,
-            "title": "sunt aut facere repellat provident occaecati excepturi optio reprehenderit",
-            "body": "quia et suscipit\nsuscipit recusandae consequuntur expedita et cum\nreprehenderit molestiae ut ut quas totam\nnostrum rerum est autem sunt rem eveniet architecto"
-        },
-        {
-            "id": 2,
-            "title": "qui est esse",
-            "body": "est rerum tempore vitae\nsequi sint nihil reprehenderit dolor beatae ea dolores neque\nfugiat blanditiis voluptate porro vel nihil molestiae ut reiciendis\nqui aperiam non debitis possimus qui neque nisi nulla"
-        },
-        {
-            "id": 3,
-            "title": "ea molestias quasi exercitationem repellat qui ipsa sit aut",
-            "body": "et iusto sed quo iure\nvoluptatem occaecati omnis eligendi aut ad\nvoluptatem doloribus vel accusantium quis pariatur\nmolestiae porro eius odio et labore et velit aut"
-        }
-    ]
+            "img": "https://nhaccutienmanh.vn/wp-content/uploads/2019/09/dan-tranh-17-day-kham-trai-tmt07-new-300x300.jpg",
+            "title": "Đàn Tranh Việt Nam 17 Dây (Khảm Trai) TMT-07",
+            "star": 4,
+            "reviews": 123,
+            "prevPrice": "140",
+            "newPrice": "200",
+            "company": "VietNam",
+            "status": "Còn Hàng",
+            "category": "17 dây",
+            "id": 1
+          },
+          {
+            "img": "https://nhaccutienmanh.vn/wp-content/uploads/2019/09/dan-tranh-19-day-tmt-09G-300x300.jpg",
+            "title": "TMT-09 Đàn Tranh Việt Nam 19 Dây (Khảm Trai)",
+            "star": 5,
+            "reviews": 123,
+            "prevPrice": "240",
+            "newPrice": "400",
+            "company": "VietNam",
+            "status": "Còn Hàng",
+            "category": "19 dây",
+            "id": 2
+          },
+          {
+            "img": "https://nhaccutienmanh.vn/wp-content/uploads/2019/11/dan-tranh-viet-nam-17-day-kham-trai-tm-dtvn32-new-300x300.jpg",
+            "title": "Đàn Tranh Việt Nam 17 Dây Khảm Trai TM-DTVN32",
+            "star": 4,
+            "reviews": 123,
+            "prevPrice": "440",
+            "newPrice": "650",
+            "company": "VietNam",
+            "status": "Còn Hàng",
+            "category": "17 dây",
+            "id": 3
+          },
+          {
+            "img": "https://nhaccutienmanh.vn/wp-content/uploads/2019/09/dan-tranh-19-day-go-tot-tmt23-avt-300x300.jpg",
+            "title": "Đàn Tranh Việt Nam 19 Dây (Không Khảm) TMT-23",
+            "star": 5,
+            "reviews": 123,
+            "prevPrice": "540",
+            "newPrice": "500",
+            "company": "VietNam",
+            "status": "Còn Hàng",
+            "category": "19 dây",
+            "id": 4
+          },
+          {
+            "img": "https://nhaccutienmanh.vn/wp-content/uploads/2019/11/dan-tranh-viet-nam-19-day-kham-trai-tm-dtvn38-300x300.jpg",
+            "title": "Đàn Tranh Việt Nam 19 Dây Khảm Trai TM-DTVN38",
+            "star": 4,
+            "reviews": 123,
+            "prevPrice": "740",
+            "newPrice": "800",
+            "company": "VietNam",
+            "status": "Hết Hàng",
+            "category": "19 dây",
+            "id": 5
+          },
+          {
+            "img": "https://nhaccutienmanh.vn/wp-content/uploads/2019/07/dan-tranh-19-day-kham-trai-tmt30-1-300x300.jpg",
+            "title": "Đàn Tranh 19 Dây (Khảm Trai) TMT-30",
+            "star": 4,
+            "reviews": 123,
+            "prevPrice": "340",
+            "newPrice": "650",
+            "company": "TrungQuoc",
+            "status": "Hết Hàng",
+            "category": "19 dây",
+            "id": 6
+          },
+          {
+            "img": "https://nhaccuphongvan.vn/wp-content/uploads/2020/05/z2315247257427_8e4be7e44e4570affa62b6ebe5576004-400x400.jpg",
+            "title": "Đàn tranh Trung Quốc 21 dây",
+            "star": 4,
+            "reviews": 123,
+            "prevPrice": "140",
+            "newPrice": "350",
+            "company": "TrungQuoc",
+            "status": "Hết Hàng",
+            "category": "21 dây",
+            "id": 7
+          },
+          {
+            "img": "https://nhaccuphongvan.vn/wp-content/uploads/2019/04/dan-tranh-go-trac-loai-1-400x400.jpg",
+            "title": "Đàn tranh Koto 21 dây gỗ Trắc loại 1",
+            "star": 4,
+            "reviews": 123,
+            "prevPrice": "140",
+            "newPrice": "200",
+            "company": "TrungQuoc",
+            "status": "Hết Hàng",
+            "category": "21 dây",
+            "id": 8
+          },
+          {
+            "img": "https://nhaccuphongvan.vn/wp-content/uploads/2019/03/dan-tranh-koto-21-day-1-400x400.jpg",
+            "title": "Đàn tranh koto 21 dây gỗ gụ mật khảm kỹ",
+            "star": 4,
+            "reviews": 123,
+            "prevPrice": "140",
+            "newPrice": "200",
+            "company": "TrungQuoc",
+            "status": "Còn Hàng",
+            "category": "21 dây",
+            "id": 9
+          },
+          {
+            "img": "https://nhaccuphongvan.vn/wp-content/uploads/2018/07/z2195673563102_47531025dff7ad1cdded88bec0ec513c-400x400.jpg",
+            "title": "Đàn tranh koto gỗ cẩm lai 19 dây ",
+            "star": 4,
+            "reviews": 123,
+            "prevPrice": "440",
+            "newPrice": "550",
+            "company": "VietNam",
+            "status": "Hết Hàng",
+            "category": "19 dây",
+            "id": 10
+          }
+    ],
 }
