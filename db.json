@@ -119,7 +119,68 @@
             "status": "Hết Hàng",
             "category": "19 dây",
             "id": 10
+          },
+          {
+            "img": "https://nhaccutienmanh.vn/wp-content/uploads/2019/11/mong-dan-tranh-loai-thuong-1-300x300.jpg",
+            "title": "Móng Gảy Đàn Tranh Loại Thường ",
+            "star": 4,
+            "reviews": 123,
+            "prevPrice": "440",
+            "newPrice": "550",
+            "company": "PhuKien",
+            "status": "Còn Hàng",
+            "category": "19 dây",
+            "id": 11
+          },
+          {
+            "img": "https://nhaccutienmanh.vn/wp-content/uploads/2019/11/day-dan-tranh-viet-nam-300x300.jpg",
+            "title": "Đàn tranh koto gỗ cẩm lai 19 dây ",
+            "star": 4,
+            "reviews": 123,
+            "prevPrice": "460",
+            "newPrice": "570",
+            "company": "PhuKien",
+            "status": "Hết Hàng",
+            "category": "19 dây",
+            "id": 12
+          },
+          {
+            "img": "https://nhaccutienmanh.vn/wp-content/uploads/2019/11/num-deo-day-guitar-300x300.jpg",
+            "title": "Đàn tranh koto gỗ cẩm lai 19 dây ",
+            "star": 4,
+            "reviews": 123,
+            "prevPrice": "240",
+            "newPrice": "350",
+            "company": "PhuKien",
+            "status": "Còn Hàng",
+            "category": "19 dây",
+            "id": 13
           }
     ],
-    "orderList":[]
+    "orderList":[
+      {
+        "img": "https://nhaccuphongvan.vn/wp-content/uploads/2020/05/z2315247257427_8e4be7e44e4570affa62b6ebe5576004-400x400.jpg",
+        "title": "Đàn tranh Trung Quốc 21 dây",
+        "star": 4,
+        "reviews": 123,
+        "prevPrice": "140",
+        "newPrice": "350",
+        "company": "TrungQuoc",
+        "status": "Hết Hàng",
+        "category": "21 dây",
+        "id": 7
+      },
+      {
+        "img": "https://nhaccuphongvan.vn/wp-content/uploads/2019/04/dan-tranh-go-trac-loai-1-400x400.jpg",
+        "title": "Đàn tranh Koto 21 dây gỗ Trắc loại 1",
+        "star": 4,
+        "reviews": 123,
+        "prevPrice": "140",
+        "newPrice": "200",
+        "company": "TrungQuoc",
+        "status": "Hết Hàng",
+        "category": "21 dây",
+        "id": 8
+      }
+    ]
 }
