@@ -141,7 +141,7 @@
             "newPrice": "570",
             "company": "PhuKien",
             "status": "Hết Hàng",
-            "category": "19 dây",
+            "category": "21 dây",
             "id": 12
           },
           {
@@ -155,6 +155,90 @@
             "status": "Còn Hàng",
             "category": "19 dây",
             "id": 13
+          },
+          {
+            "img": "https://nhaccutienmanh.vn/wp-content/uploads/2019/12/dan-tranh-don-hoang-694l-dunhuang-694l-21-day-1-300x300.jpg",
+            "title": "Đàn tranh koto gỗ cẩm lai 19 dây ",
+            "star": 4,
+            "reviews": 123,
+            "prevPrice": "460",
+            "newPrice": "570",
+            "company": "PhuKien",
+            "status": "Hết Hàng",
+            "category": "19 dây",
+            "id": 14
+          },
+          {
+            "img": "https://nhaccutienmanh.vn/wp-content/uploads/2019/07/dan-tranh-trung-quoc-tmt380-1-300x300.jpg.jpg",
+            "title": "Đàn tranh koto gỗ cẩm lai 19 dây ",
+            "star": 4,
+            "reviews": 123,
+            "prevPrice": "240",
+            "newPrice": "350",
+            "company": "VietNam",
+            "status": "Còn Hàng",
+            "category": "21 dây",
+            "id": 15
+          },
+          {
+            "img": "https://nhaccutienmanh.vn/wp-content/uploads/2020/04/dan-tranh-don-hoang-698e-dunhuang-698e-1-1-300x300.jpg",
+            "title": "Đàn tranh koto gỗ cẩm lai 19 dây ",
+            "star": 4,
+            "reviews": 123,
+            "prevPrice": "460",
+            "newPrice": "570",
+            "company": "VietNam",
+            "status": "Hết Hàng",
+            "category": "19 dây",
+            "id": 16
+          },
+          {
+            "img": "https://nhaccutienmanh.vn/wp-content/uploads/2019/07/dan-tranh-viet-nam-19-day-tsh40-300x300.jpg",
+            "title": "Đàn tranh koto gỗ cẩm lai 19 dây ",
+            "star": 4,
+            "reviews": 123,
+            "prevPrice": "240",
+            "newPrice": "350",
+            "company": "PhuKien",
+            "status": "Hết Hàng",
+            "category": "21 dây",
+            "id": 17
+          },
+          {
+            "img": "https://nhaccutienmanh.vn/wp-content/uploads/2020/04/dan-tranh-don-hoang-698e-dunhuang-698e-1-1-300x300.jpg",
+            "title": "Đàn tranh koto gỗ cẩm lai 19 dây ",
+            "star": 4,
+            "reviews": 123,
+            "prevPrice": "460",
+            "newPrice": "570",
+            "company": "VietNam",
+            "status": "Hết Hàng",
+            "category": "19 dây",
+            "id": 18
+          },
+          {
+            "img": "https://nhaccuphongvan.vn/wp-content/uploads/2019/06/dan-tranh-can-oc-xa-cu-3.jpg",
+            "title": "Đàn tranh koto gỗ cẩm lai 19 dây ",
+            "star": 4,
+            "reviews": 123,
+            "prevPrice": "240",
+            "newPrice": "350",
+            "company": "PhuKien",
+            "status": "Hết Hàng",
+            "category": "21 dây",
+            "id": 19
+          },
+          {
+            "img": "https://nhaccuphongvan.vn/wp-content/uploads/2018/08/20180806_210155-800x791-400x400.jpg",
+            "title": "Đàn tranh koto gỗ cẩm lai 19 dây ",
+            "star": 4,
+            "reviews": 123,
+            "prevPrice": "240",
+            "newPrice": "350",
+            "company": "PhuKien",
+            "status": "Hết Hàng",
+            "category": "17 dây",
+            "id": 20
           }
     ],
     "orderList":[
